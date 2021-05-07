@@ -18,7 +18,7 @@
 ## Setup  Project
 
 Clone project by this command
-- git clone (https://github.com/shubham2000-pan/project-test.git) 
+- git clone (https://github.com/shubham2000-pan/test.git) 
 
 update composer 
 - composer update
